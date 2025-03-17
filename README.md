@@ -1,4 +1,4 @@
-### My name is Evgenii Petrov  👋
+## My name is Evgenii Petrov  👋
 
 -  I’m a junior Data Scientist
 - 🎓 I’m a bachelor's degree student at the National Research University of Electronic Technology (MIET) in the field of specialist in technical information security.
@@ -17,3 +17,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Jupiter Notebooks](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+## Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/djekosss)
