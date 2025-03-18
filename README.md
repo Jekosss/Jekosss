@@ -14,6 +14,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-320FF2?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras-FF1111?style=for-the-badge&logo=keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-3333DD?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E3414D?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-AAABBB?style=for-the-badge&logo=postgresql&logoColor=white)
